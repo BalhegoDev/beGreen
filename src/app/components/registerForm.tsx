@@ -14,7 +14,7 @@ export default function RegisterForm(){
         <form className="grid grid-cols-2 gap-2 p-3">
             <header className='col-span-2'>
                 <p className='font-bold mb-2 text-xl font-montserrat'>
-                    Bem-vindo à AirEco ! 
+                    Bem-vindo à EcoAr ! 
                 </p>
             </header>
             <TextField label="Primeiro nome" variant="outlined" />
